@@ -3,7 +3,7 @@
 Router is a routing library for Kivy.
 
 It keeps your UI sync to the url/route you asked for. It has a simple API which
-can remind Flask.
+resembles a [Flask](http://flask.pocoo.org/) app structure.
 
 ## Installation
 
